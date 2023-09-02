@@ -22,7 +22,7 @@ This app offers a responsive and visually appealing user interface that adapts s
 
 - 🏠 **Single page application**: Seamless navigation between different pages without the need for page refreshes..
   
-- 🏠 **Random Home Page Background**: Background changes on page refresh, giving a fresh look every time.
+- 🏠 **Random Home Page Background**: Background changes on page refresh or revisit, giving a fresh look every time.
   
 - 🎬 **Carousel**: Explore trending, upcoming, and top-related movies and TV shows using interactive carousels.
   
