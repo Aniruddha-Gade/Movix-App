@@ -105,7 +105,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img7.png)
 
 
-  # Movies && TV Shows
+  # Explore Page for Movies && TV Shows
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img8.png)
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img9.png)
 
