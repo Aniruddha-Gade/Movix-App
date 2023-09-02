@@ -54,6 +54,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 - `useState`
 - `useEffect`
+- `useDispatch`
 - `useParams`
 - `useSelector`
 - `useLocation`
