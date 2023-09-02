@@ -13,9 +13,9 @@ This app offers a responsive and visually appealing user interface that adapts s
 
 ## Tech Stack 🛠️
 
-- React.js
-- Tailwind CSS
-- The Movie Database (TMDB) API
+- ⚡ Vite + React.js
+- 🎨 Tailwind CSS
+- 🎥 The Movie Database (TMDB) API
 
 
 ## Features 🌟
@@ -39,13 +39,13 @@ This app offers a responsive and visually appealing user interface that adapts s
   
 ## Pages 📑
 
-- **Home**: Refreshing backgrounds, interactive carousels, and a captivating UI.
+- **Home**🏠: Refreshing backgrounds, interactive carousels, and a captivating UI.
 
-- **Details**: In-depth information, ratings, and trailers for each movie and TV show.
+- **Details**🎥: In-depth information, ratings, and trailers for each movie and TV show.
 
-- **Search Results**: Efficiently browse through search results with react-select.
+- **Search Results**🔍: Efficiently browse through search results with react-select.
 
-- **Page Not Found**: A friendly page for unexpected routes.
+- **Page Not Found**🚫: A friendly page for unexpected routes.
 
 
 ## React Hooks 🎣
@@ -72,3 +72,45 @@ Utilized several React hooks for efficient state management and dynamic behavior
 - ♾️ **Infinite Scroll**: Incorporates the InfiniteScroll library for seamless scrolling through content.
 
 - 🔍 **Select**: Enhance your user interface with interactive and customizable select option using the React Select library.
+
+
+##  🖥️ Screen Preview: 
+
+# 🏠 Random Home Page Background 
+ ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/home1.png) 
+  ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/home2.png)
+  ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/home3.png)
+  
+# Search Button
+  ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/home4.png)
+
+
+# Loading Skeleton
+  ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img11.png)
+  ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img1.png)
+  ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img2.png)
+
+
+  # Details of Movie / TV
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img3.png)
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img4.png)
+
+# Cast of the Movie / TV
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img5.png)
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/cast1.png)
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/cast2.png)
+
+# Official Videos & Recommendations
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img6.png)
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img7.png)
+
+
+  # Movies && TV Shows
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img8.png)
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img9.png)
+
+# Filters for Generes && Sorting
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/img10.png)
+  
+# Footer
+![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/footer.png)
