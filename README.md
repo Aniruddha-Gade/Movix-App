@@ -15,6 +15,7 @@ This app offers a responsive and visually appealing user interface that adapts s
 
 - ⚡ Vite + React.js
 - 🎨 Tailwind CSS
+- 🔄 Redux
 - 🎥 The Movie Database (TMDB) API
 
 
